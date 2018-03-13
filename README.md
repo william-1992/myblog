@@ -1,3 +1,3 @@
 # myblog
 Hello! Everybody!
-此次主要以学习vue为主
+让我们一起Study, work hard, refuel
